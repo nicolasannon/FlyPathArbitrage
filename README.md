@@ -61,7 +61,7 @@ flight_scanner.py (Class FlightScanner)
 
 main.py
 
-   Initializes the FlightScanner object with API credentials.
+   Initializes the FlightScanner object with API credentials (you need to register to differents API services).
    Executes flight searches using search_flights().
    Displays statistics and visualizations with plot_statistics() and visualize_itineraries().
    Simulates flight cost estimates using estimate_flight_cost().
